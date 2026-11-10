@@ -14,7 +14,7 @@
 
 <br><br>
 
-<a href="#quick-start">Quick Start</a> · <a href="#architecture">Architecture</a>
+<a href="#60-seconds">60 Seconds</a> · <a href="#layout">Layout</a>
 
 </div>
 
