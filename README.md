@@ -1,3 +1,23 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img src="./assets/banner-dark.svg" alt="project banner" width="100%">
+</picture>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&labelColor=0D1117&logo=python&logoColor=6366F1" alt="Python">
+<img src="https://img.shields.io/badge/LLM-161B22?style=flat-square&labelColor=0D1117&logo=openai&logoColor=6366F1" alt="LLM">
+<img src="https://img.shields.io/badge/MIT-161B22?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=6366F1" alt="MIT">
+
+<br><br>
+
+<a href="#quick-start">Quick Start</a> · <a href="#architecture">Architecture</a>
+
+</div>
+
 # NAWAH
 
 **A skill layer over any model.**
